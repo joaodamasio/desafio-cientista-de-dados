@@ -17,8 +17,8 @@ O notebook contendo as análises estátiticas e EDA podem sem encontradas no dir
 Basta rodar o arquivo passo a passo que ele vai puxar as bibliotecas necessárias
 
 ## 🤖 Modelagem
-Primeiro extraia os arquivos ```.pkl``` dentro da pasta zipada
-Segundo carregue o ```one_hot_encode.pkl```  para normalizar os dados
+Primeiro extraia os arquivos ```.pkl``` dentro da pasta zipada \n
+Segundo carregue o ```one_hot_encode.pkl```  para normalizar os dados \n
 Terceiro carregue o modelo treinado ```rf_modelo_precificacao.pkl```, assim:
 ```python
 import pandas
