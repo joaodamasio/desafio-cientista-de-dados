@@ -4,7 +4,7 @@ Desafio proposto por empresa para a criação de uma plataforma de alugueis temp
 ## 🛠️ Instalação
 Clone este repositório e instale as dependências:
 
-!Importante tem o conda ativado em sua variavel de ambiente
+!Importante ter o conda ativado em sua variavel de ambiente
 
 ```bash
 git clone https://github.com/seuusuario/nome-do-repositorio.git
